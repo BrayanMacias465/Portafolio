@@ -612,7 +612,7 @@ img {
 }
 
 .contact__button-btn {
-  background-color: var(--first-color);
+  background-color: #1b1b1e;;
   color: white;
   font-size: var(--smaller-font-size);
   padding: .75rem 2.5rem;
@@ -623,7 +623,7 @@ img {
 }
 
 .footer {
-  background-color: var(--first-color);
+  background-color: #1b1b1e;;
 }
 
 .footer__container {
